@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/jz/Documents/GitHub/Vision-backend/env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_flask", "pylint_flask_sqlalchemy"]
+}
